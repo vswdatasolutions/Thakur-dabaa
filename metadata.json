@@ -1,0 +1,5 @@
+{
+  "name": "HotelNest",
+  "description": "An all-in-one management system for hotels, bars, and inventory, optimized for tablets. It streamlines operations from room bookings and bar POS to stock management and comprehensive reporting.",
+  "requestFramePermissions": []
+}
